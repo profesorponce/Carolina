@@ -1,1 +1,1 @@
-Para ver al bot en acci{on, ingresa con tu browser (navegador) a https://profesorponce.github.io/Carolina/
+Para ver al bot en accioon, ingresa con tu browser (navegador) a https://profesorponce.github.io/Carolina/
